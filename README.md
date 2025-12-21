@@ -1,4 +1,4 @@
-# [Ludium] Silent Auction
+# Silent Auction
 
 # Overview
 
